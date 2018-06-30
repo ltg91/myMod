@@ -1,0 +1,23 @@
+{
+  "name": "mymod",
+  "version": "1.0.0",
+  "description": "npm test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltg91/myMod.git"
+  },
+  "keywords": [
+    "ltg",
+    "test001"
+  ],
+  "author": "ltg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltg91/myMod/issues"
+  },
+  "homepage": "https://github.com/ltg91/myMod#readme"
+}
